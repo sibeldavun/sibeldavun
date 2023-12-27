@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sibeldavun
+- 👋 Hi, I’m @sibeldavun. I am a Technical Recruiter.
 - 👀 I’m interested in frontend development :)
 - 🌱 I’m currently learning JavaScript and React
 <!---
